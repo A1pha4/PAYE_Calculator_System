@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\PAYE_Calculator_System\bin\Debug\net6.0\PAYE_Calculator_System.exe
+C:\Users\USER\source\repos\PAYE_Calculator_System\bin\Debug\net6.0\PAYE_Calculator_System.deps.json
+C:\Users\USER\source\repos\PAYE_Calculator_System\bin\Debug\net6.0\PAYE_Calculator_System.runtimeconfig.json
+C:\Users\USER\source\repos\PAYE_Calculator_System\bin\Debug\net6.0\PAYE_Calculator_System.dll
+C:\Users\USER\source\repos\PAYE_Calculator_System\bin\Debug\net6.0\PAYE_Calculator_System.pdb
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.AssemblyInfo.cs
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.dll
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\refint\PAYE_Calculator_System.dll
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.pdb
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\PAYE_Calculator_System.genruntimeconfig.cache
+C:\Users\USER\source\repos\PAYE_Calculator_System\obj\Debug\net6.0\ref\PAYE_Calculator_System.dll
