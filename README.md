@@ -40,16 +40,30 @@ Run the application and follow the on-screen instructions to perform calculation
 Your inputs should be valid and follow the on screen prompts.
 
 ### Contributing
-If you'd like to contribute, please fork the repository and then create a pull request. See contributing file.
+If you'd like to contribute, please fork the repository and then create a pull request. See [CONTRIBUTING](https://github.com/A1pha4/PAYE_Calculator_System/blob/main/CONTRIBUTING.md) file.
 
 ### License
-This project is licensed under the MIT License. See licence file.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/A1pha4/PAYE_Calculator_System/blob/main/LICENSE) file.
 
 ### Authors and Acknowledgments
-Owen Murunga, Joseph Ochieng, Amos Nzuki, Deche Wilson, Tamima Shee, Joseph Matiko, James Kiala, Abdulkadir Said.
-Microsoft Docs - C#
+- *Owen Murunga*
+- *Joseph Ochieng*
+- *Amos Nzuki*
+- *Deche Wilson*
+- *Tamima Shee*
+- *Joseph Matiko*
+- *Winfred Mawia*
+- *James Kiala*
+- *Abdulkadir Said*
+- Microsoft Docs - C#
 
 ### Contact and Support 
 - *abdulkadirsaid2103@gmail.com*
 - *josephochieng922@gmail.com*
 - *owenhood80@gmail.com*
+- jeyzwilinsco@gmail.com
+- *sheetamima@gmail.com*
+- *amosnzuki2003@gmail.com*
+- *matish9409@gmail.com*
+- *winfredmawia94@gmail.com*
+- *jameskiala54@gmail.com*
