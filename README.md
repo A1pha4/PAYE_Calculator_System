@@ -1,5 +1,6 @@
 # PAYE_Calculator_System
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
+![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
 - The PAYE Calculator System is a C# application designed to assist users in calculating Pay As You Earn (PAYE) taxes. This tool simplifies the process of determining the amount of income tax to be deducted from an employee's salary based on relevant tax brackets and regulations.
 ![PAYE_UI_1](https://github.com/A1pha4/PAYE_Calculator_System/blob/main/PAYE%20UI%201.png)
 ![PAYE_UI_2](https://github.com/A1pha4/PAYE_Calculator_System/blob/main/PAYE%20UI%202.png)
